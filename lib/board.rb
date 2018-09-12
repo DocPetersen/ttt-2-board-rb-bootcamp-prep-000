@@ -1,2 +1,2 @@
 board
-array = 
+array = board
